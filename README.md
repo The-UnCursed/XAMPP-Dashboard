@@ -2,7 +2,7 @@
 
 A clean, modern dashboard for XAMPP that simplifies project and virtual host management.
 
-![XAMPP Dashboard Screenshot](screenshot.png)
+![XAMPP Dashboard Screenshot](images/screenshot.png)
 
 ## Features
 
