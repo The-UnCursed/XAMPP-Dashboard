@@ -100,4 +100,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Acknowledgments
 
 - [Font Awesome](https://fontawesome.com/) for the icons
-- [XAMPP](https://www.apachefriends.org/) for the amazing development environment
+- [XAMPP](https://www.apachefriends.org/) for the development environment
